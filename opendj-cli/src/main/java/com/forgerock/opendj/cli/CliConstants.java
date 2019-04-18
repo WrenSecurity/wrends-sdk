@@ -38,7 +38,7 @@ public final class CliConstants {
     public static final int DEFAULT_LDAP_CONNECT_TIMEOUT = 30000;
 
     /** Default value for incrementing port number. */
-    public static final int PORT_INCREMENT = 1000;
+    public static final int PORT_INCREMENT = 50;
 
     /** Default port number for the LDAP port. */
     public static final int DEFAULT_LDAP_PORT = 389;
